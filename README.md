@@ -13,7 +13,7 @@
 
 ## 플래시카드 사용법 
 - `Obsidian`에서 [spaced repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) 플러그인을 설치 
-- 설정에 들어가서 다음과 같이 셋팅![](20250623100741.png)
+- 설정에 들어가서 다음과 같이 셋팅![](assets/20250623100741.png)
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
